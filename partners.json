@@ -1,0 +1,83 @@
+{
+  "title": "sponsors",
+  "levels": [
+    {
+      "title": "Financial",
+      "logos": [
+        {
+          "name": "Google",
+          "url": "https://developers.google.com/",
+          "logoUrl": "images/partners/google.png",
+          "width": 250,
+          "height": 250
+        },
+        {
+          "name": "Little Caesars",
+          "url": "https://littlecaesars.com/en-us/",
+          "logoUrl": "images/partners/Core_Caesar_RGB.png",
+          "width": 250,
+          "height": 250
+        },
+        {
+          "name": "Arbormoon Software",
+          "url": "http://www.arbormoon.com/",
+          "logoUrl": "images/partners/arbormoonlogo-full.png",
+          "width": 250,
+          "height": 250
+        },
+        {
+          "name": "RIIS",
+          "url": "https://www.riis.com/",
+          "logoUrl": "images/partners/RIIS.png",
+          "width": 250,
+          "height": 250
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "logos": [
+        {
+          "name": "Detroit Meets",
+          "url": "https://detroitmeets.com/",
+          "logoUrl": "images/partners/detroit_meets.png",
+          "width": 250,
+          "height": 250
+        },
+        {
+          "name": "Mobile Monday Motor City",
+          "url": "https://www.meetup.com/MoMoMotorCity/",
+          "logoUrl": "images/partners/mmmc.jpg",
+          "width": 250,
+          "height": 250
+        }
+      ]
+    },
+    {
+      "title": "Unused For Now",
+      "logos": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com/",
+          "logoUrl": "/logos/google.png",
+          "width": 170,
+          "height": 170
+        },
+        {
+          "name": "Quicken Loans",
+          "url": "https://www.quickenloans.com/",
+          "logoUrl": "/logos/QuickenLoans.png",
+          "width": 170,
+          "height": 170
+        },
+        {
+          "name": "",
+          "url": "",
+          "logoUrl": "../images/logos/BlankSpace.png",
+          "width": 50,
+          "height": 250
+        } 
+      ]
+    }
+  ]
+}
