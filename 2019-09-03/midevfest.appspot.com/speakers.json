@@ -1,0 +1,402 @@
+{
+  "title": "Speakers",
+  "listOfSpeakers": [
+    {
+      "id": 13,
+      "featured": true,
+      "name": "Susan Anspaugh",
+      "title": "",
+      "company": "Little Caesars",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/Susan_Anspaugh.jpeg",
+      "shortBio": "Susan Anspaugh is Manager of Agile/Scrum team of IT Professionals for the Little Caesar Enterprises, Inc..",
+      "bio": "Susan Anspaugh is Manager of Agile/Scrum team of IT Professionals for the Little Caesar Enterprises, Inc. Digital Enterprise Team. This team builds products for the business side of Little Caesars and other Ilitch companies in technologies including Azure, .NET, O365 SharePoint, ServiceNow and the newest, Flutter.\n\nHer 20 plus years in IT has given Susan great experience in managing multiple projects concurrently, growing both businesses and people, transforming teams to develop via the Agile/Scrum methodologies, elevating code quality, and design products for strong customer-facing usability.\n\nShe is a seasoned speaker who had spoken at That Conference, Stir Trek, Greater Lansing .NET Group, Mobile Dev Day Detroit, and others.",
+      "tags": ["Flutter"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/SuzieZUMO "
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "featured": true,
+      "name": "Robert Baxtresser",
+      "title": "VP, Business Development",
+      "company": "Arbormoon Software, Inc.",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/Robert_Baxtresser.jpeg",
+      "shortBio": "Rob Baxtresser is VP, Business Development at Arbormoon Software.",
+      "bio": "Rob Baxtresser is VP, Business Development at Arbormoon Software. His first career was in healthcare informatics where he led sales efforts and product development at several industry-leading companies (Medstat, United Healthcare) and had a thriving consulting practice with clients including the Mayo Clinic and Boston University Health System.\nOnce his attention was turned to mobile tech he started as a free-lance QA analyst on several large mobile projects, he has performed numerous roles at Arbormoon. He is now leveraging his previous experience towards expanding the portfolio there, particularly in connected health.\nBaxtresser has had 4 apps in Google Play and the App Store for which he performed or managed every step of the product life cycle from concept to deployment and ongoing maintenance and marketing. The apps have over 100,000 downloads in 90 countries, achieved Featured App status, and numerous favorable mentions in media.\nBaxtresser has given the talk \"How to Thrive in Tech When You Are Not a Techie\" at events including Detroit Tech Startup Week.",
+      "tags": ["People"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/baxination "
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "featured": true,
+      "name": "Megan Boczar",
+      "title": "",
+      "company": "Pluralsight",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/Megan_Boczar.png",
+      "shortBio": "Megan currently works as a Salesforce Developer at Pluralsight. ",
+      "bio": "Megan Boczar has been a software developer since way back in November 2017. She worked a ton of customer service and admin jobs before finally jumping into a bootcamp at Grand Circus in Detroit. After landing a job as a dev in Ann Arbor, she took on a new passion for accessibility and good front end design. Megan currently works as a Salesforce Developer at Pluralsight. She now serves as a co-founder and Director of Learning for tech[inclusive], a non-profit organization providing safe and accessible learning opportunities and networking events for underrepresented people in tech and their allies.\n\nWhen she's not coding, Megan enjoys playing board games, keeping up on Netflix, and attempting to read one book per week. Megan loves all manner of nerdy things Star Wars to Buffy to Dungeons and Dragons.",
+      "tags": ["People"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/meganboczar "
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "featured": true,
+      "name": "Keith Bourne",
+      "title": "Co-Founder",
+      "company": "Gradient Valley, Inc.",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/Keith_Bourne.jpeg",
+      "shortBio": "Keith Bourne is the founder of Gradient Valley, focused on machine learning consulting and development.",
+      "bio": "Keith Bourne is the founder of Gradient Valley, focused on machine learning consulting and development. He has been on the forefront of cutting edge technology since the 90's, with extensive management and technical experience in web, mobile, and machine learning.  His focus has been on all aspects of building and selling incredible technology products and services, including a deep knowledge of user experience, agile programming methods, technology marketing, and most of the most popular programming languages and their capabilities. He holds an MBA from Babson College where he focused on technology entrepreneurship and marketing, which has provided a strong analytical base for approaching machine learning problems with an organization's overall strategic direction in mind.  He has served in diverse roles in high growth start up environments, including Senior Software Engineer, Marketing Director, Chief Operations Officer, and Founder/Chief Executive Officer.",
+      "tags": ["Machine Learning", "TensorFlow"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/keithbourne "
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "featured": true,
+      "name": "Gary Coburn",
+      "title": "",
+      "company": "Google",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/gary_coburn.jpeg",
+      "shortBio": "Strategic Customer Engineer at Google Cloud",
+      "bio": "Strategic Customer Engineer at Google Cloud, Gary has built a brand of driving business towards forward thinking technologies. Starting at a global manufacturing and architecting an entire DC migration saving 3.1M dollars, to consulting with organizations and automating entire application and infrastructure services across 100s of locations, and finally focusing on multi-cloud scale. Today Gary spends most of his time working with Google technologies like Firebase, Flutter, Kubernetes, and Anthos to deliver what businesses need while driving IT organizations to adapt and focus on what's next!",
+      "tags": ["GCP"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/coburngary"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "featured": true,
+      "name": "Lucas Collins",
+      "title": "",
+      "company": "Little Caesars",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/Lucas_Collins.jpg",
+      "shortBio": "Lucas is a Technical Engineer and Flutter enthusiast on the Mobile Development team at Little Caesars Enterprises, Inc..",
+      "bio": "Lucas is a Technical Engineer and Flutter enthusiast on the Mobile Development team at Little Caesars Enterprises, Inc. His passion for cross-platform mobile development began as a two-term summer intern with the organization while still attending EMU gaining experience first with React Native in 2017, and then beginning his journey with Google's Flutter SDK in May of 2018.\n\nSince becoming a full-time colleague, Lucas has enjoyed being a driving force for the awareness and adoption of Flutter throughout Little Caesars - including in his role in the development of \"Gateway Mobile\", a mobile app adaptation of the organization's enterprise portal. He is currently involved in active research and experimentation to implement more Flutter solutions and further streamline front-end development at Little Caesars.",
+      "tags": ["Flutter"],
+      "badges": [],
+      "socials": [
+        {
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "featured": true,
+      "name": "Julia Dart",
+      "title": "",
+      "company": "StockX",
+      "companyLogo": "",
+      "country": "Detroit, Michigan, USA",
+      "photoUrl": "images/speakers/people/juliadart.jpg",
+      "shortBio": "Julia is an Android App Developer at StockX, located in downtown Detroit.",
+      "bio": "Julia is an Android App Developer at StockX, located in downtown Detroit.",
+      "tags": ["Kotlin"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/juliaaugustdart "
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "featured": true,
+      "name": "Pierre DeBois",
+      "title": "",
+      "company": "Zimana",
+      "companyLogo": "",
+      "country": "Greater Chicago / Gary, IN. USA",
+      "photoUrl": "images/speakers/people/Pierre_DeBois.jpeg",
+      "shortBio": "Pierre DeBois is the founder of Zimana, an analytics consultancy.",
+      "bio": "Pierre DeBois is the founder of Zimana, an analytics consultancy that help organizations achieve profitability improvements in marketing, Web development, and within their business operations. Zimana has provided services for businesses from many industries. Zimana's blog is an AllTop analytics blog, while its @zimanaanalytics was named among the top 100 Twitter accounts for big data discussion according to the Big Data Republic/PeerIndex #BigData100.",
+      "tags": ["TensorFlow", "Google Analytics"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/ZimanaAnalytics"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "featured": true,
+      "name": "Bryce Howitson",
+      "title": "",
+      "company": "Curious",
+      "companyLogo": "",
+      "country": "Minnesota USA",
+      "photoUrl": "images/speakers/people/bryce_howitson.jpeg",
+      "shortBio": "Bryce is obsessed with creating products that people want to use. He helps organizations of all sizes prototype, and test their ideas. Bryce is a professional product designer, a certified Design Sprint Master, a pixel wrangler, a hobby carpenter, and self-proclaimed technology geek. He writes and speaks about hacking empathy to create better digital experiences from his homeland in the great frozen north of Minnesota. Bryce is a Google Developer Expert and can occasionally describe what that means. Ask him about Project M or his most epic Boundary Waters trip!",
+      "bio": "Bryce is obsessed with creating products that people want to use. He helps organizations of all sizes prototype, and test their ideas. Bryce is a professional product designer, a certified Design Sprint Master, a pixel wrangler, a hobby carpenter, and self-proclaimed technology geek. He writes and speaks about hacking empathy to create better digital experiences from his homeland in the great frozen north of Minnesota. Bryce is a Google Developer Expert and can occasionally describe what that means. Ask him about Project M or his most epic Boundary Waters trip!",
+      "tags": ["Voice Assistants"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/howitson"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "featured": true,
+      "name": "Grishma Jena",
+      "title": "",
+      "company": "IBM",
+      "companyLogo": "",
+      "country": "San Francisco, CA. USA",
+      "photoUrl": "images/speakers/people/Grishma_Jena.jpeg",
+      "shortBio": "Grishma is a Cognitive Software Engineer with the Data Science for Marketing team at IBM Watson in San Francisco.",
+      "bio": "Grishma is a Cognitive Software Engineer with the Data Science for Marketing team at IBM Watson in San Francisco. She earned her Masters in Computer Science at University of Pennsylvania. Her research interests are in Machine Learning and Natural Language Processing. She was recently a mentor for AI4ALL's AI Project Fellowship Spring 2018 where she guided a group of high school students to use AI for prioritizing 911 EMS calls. In her free time, she writes, cooks and likes conducting workshops and delivering talks. She likes explaining things in an easy-to-understand format, drawing analogies from real-life (eg. using Uncle Scrooge to explain Greedy Algorithms https://medium.com/the-graph/uncle-scrooge-meets-greedy-algorithms-dfc80c33d7ac).",
+      "tags": ["Data Science"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/DebateLover"
+        }
+      ]
+    },
+      {
+      "id": 19,
+      "featured": true,
+      "name": "Brett Koonce",
+      "title": "",
+      "company": "QuarkWorks",
+      "companyLogo": "",
+      "country": "Columbia, Missouri, USA",
+      "photoUrl": "images/speakers/people/brett_koonce.jpeg",
+      "shortBio": "I grew up on a farm in Missouri raising cows, ticks, corn and soybeans by the ton. \n\nNow I am the CTO of Quarkworks, where I enjoy solving problems, big and small. In my spare time I like to write. ",
+      "bio": "I grew up on a farm in Missouri raising cows, ticks, corn and soybeans by the ton. \n\nNow I am the CTO of Quarkworks, where I enjoy solving problems, big and small. In my spare time I like to write. ",
+      "tags": ["Git"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/asparagui"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "featured": true,
+      "name": "Ibrahim Kosgi",
+      "title": "",
+      "company": "University of Michigan",
+      "companyLogo": "",
+      "country": "Ann Arbor, Michigan",
+      "photoUrl": "images/speakers/people/ibrahim_kosgi.jpg",
+      "shortBio": "Ibrahim is a University of Michigan Student and UMich ITS Software Development Intern.",
+      "bio": "Ibrahim is a University of Michigan Student and UMich ITS Software Development Intern.",
+      "tags": ["DialogFlow"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/ibrahimkosgi"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "featured": true,
+      "name": "Peter Lauwers",
+      "title": "",
+      "company": "orangesplash technologies inc.",
+      "companyLogo": "",
+      "country": "Greater Detroit Area",
+      "photoUrl": "images/speakers/people/Peter_Lauwers.jpg",
+      "shortBio": "Peter Lauwers is the CEO of orangesplash technologies inc.",
+      "bio": "Peter Lauwers is the CEO of orangesplash technologies inc. and oversees product design, architecture, and UI/UX. His career started 25 years ago, with two major branches that he successfully wove together: Printed advertising/design, marketing, and branding and IT/Database architecture and design. This combination helped Peter effectively manage and support creative teams in a number of large and small advertising agencies and design firms. As the digital era began to rise, Peter's creative and technical background was ideal to embrace the changes taking place in the advertising and marketing fields as well as forge the path of internet and mobile app development.\n\nPeter has led design and development of many successful IT and mobile projects. A few accolades include: Highest yearly ecommerce revenue award from General Motors and a Project of the Year award from Little Caesars for their mobile app, a project Peter led from its inception.",
+      "tags": ["Design"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/lauwersp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "featured": true,
+      "name": "Godfrey Nolan",
+      "title": "Founder and President of RIIS, LLC",
+      "company": "RIIS",
+      "companyLogo": "",
+      "country": "Detroit, Michigan, USA",
+      "photoUrl": "images/speakers/people/godfrey_nolan.jpg",
+      "shortBio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy. He is also...",
+      "bio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy. He is also author of \"Agile Android\", \"Bulletproof Android\", \"Android Best Practices\", \"Decompiling Android\" and \"Decompiling Java.\" Godfrey has spoken at DroidCon, AnDevcon as well as JavaOne, ASP-Connections, VSLive, Codemash, Code PaLOUsa, 1DevDay and many local Java and .Net user groups on a wide range of topics such as Continuous Integration, Unit Testing and mobile security.",
+      "tags": ["Machine Learning"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/godfreynolan"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "featured": true,
+      "name": "Scott Showalter",
+      "title": "",
+      "company": "Ford",
+      "companyLogo": "",
+      "country": "Greater Detroit, USA",
+      "photoUrl": "images/speakers/people/Scott_Showalter.jpeg",
+      "shortBio": "",
+      "bio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences for users of digital and physical products in a diversity of industries including security, banking, dining, public safety, transit, mobility, health and social media. He does nothing without first making connections with real users, understanding their journey, empathizing with their needs, and considering how they think and work to accomplish their goals within the context of the problem space. Scott has a dynamic presentation style, delivering learning in many ways for many different types of learners, and he threads humor throughout everything he teaches to help drive every point home and make each memorable. He encourages the use of Lean UX alongside agile delivery to iteratively conceive, validate and deliver valuable components of an experience within complex adaptive systems. Scott speaks frequently at conferences, teaching people to build teams that can create the right products by showing them how to solve meaningful problems that people actually care about. He runs 4 active experience design  meetups across Ohio and Michigan that serve over a thousand designers, engineers and product leaders.",
+      "tags": ["Data Science"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/scottrageous"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "featured": true,
+      "name": "Kamal Shree",
+      "title": "",
+      "company": "",
+      "companyLogo": "",
+      "country": "Greater Chicago, Illinois, USA",
+      "photoUrl": "images/speakers/people/kamal_shree.jpeg",
+      "shortBio": "Software developer with 11 years of experience in Web Technologies, Android and recently, Flutter",
+      "bio": "Software developer with 11 years of experience in Web Technologies, Android and recently, Flutter. I have worked for multinational firms in India, the Netherlands and I am currently living in Chicago. I am an active Youtuber and I have posted more than 85 video tutorials on Flutter programming and interviewed Google Developer Experts.",
+      "tags": ["Flutter"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/whatsupcoders"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "featured": true,
+      "name": "Scott Stoll",
+      "title": "",
+      "company": "Flutter Community",
+      "companyLogo": "",
+      "country": "Greater Cleveland / Akron, Ohio. USA",
+      "photoUrl": "images/speakers/people/scott_stoll.png",
+      "shortBio": "Scott is a co-founder of several programs within the Flutter Community organization, owner of the Flutter Community public Slack and creator of the weekly, remote office hours for Flutter, #HumpDayQandA.",
+      "bio": "Scott is a co-founder of several programs within the Flutter Community organization, owner of the Flutter Community public Slack and creator of the weekly, remote office hours for Flutter, #HumpDayQandA. \n\nHe's spoken at groups and events throughout the United States, as well as in the United Kingdom, and is available to speak both nationally and internationally.\n\nHe's also the organizer of GDG Cleveland, the real mastermind behind Brain's Ultimate Plan for World Domination, and a consumer of entirely too much overpriced airport pizza. In his spare time, he enjoys making (or trying to make) his own VR apps for Google Daydream and finding new ways to make nummy things and thoroughly trash the kitchen.",
+      "tags": ["Flutter"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/scottstoll2017"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "featured": true,
+      "name": "James Thompson",
+      "title": "",
+      "company": "StackRox",
+      "companyLogo": "",
+      "country": "",
+      "photoUrl": "images/speakers/people/James_Thompson.jpg",
+      "shortBio": "Solutions Engineer at StackRox",
+      "bio": "Now, this is a story about how my life got flipped upside down...\nIn Michigan, born and raised\nOn the asphalt poppin' wheelies on my Huffy and playing Sega where I spent my first 16 years\nThe next 15 years I spent hustling the inter-webs and keeping it up and running\nFor the last 5 years I've been selling free software and securing k8s",
+      "tags": ["Kubernetes"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/JamesVThompson"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "featured": true,
+      "name": "Don Ward",
+      "title": "",
+      "company": "Quicken Loans",
+      "companyLogo": "",
+      "country": "Windsor, Ontario, Canada",
+      "photoUrl": "images/speakers/people/don_ward.png",
+      "shortBio": "",
+      "bio": "Don Ward is a Senior Research Engineer at Quicken Loans, the nation's largest mortgage lender, which is based in Detroit, Michigan.\n\nAs the previous Director of Mobile Development at Quicken Loans, he has been building mobile apps for the past 10 years. He leads the local chapters of the Google Developers Group in Detroit and Windsor, Canada. Always up for a good challenge, Don entered and won a 24-hour hackathon leveraging the power of wearables such as the Apple Watch.\n\nRecently, Don purchased an oversized boat and has been honing his captain skills on the Detroit River and Great Lakes. As an avid lover of all things Android, he's waiting on the boating industry to release an excellent Android chart plotter so he can write apps for his boat.",
+      "tags": ["Flutter"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/donwardpeng"
+        }
+      ]
+    }
+
+  ]
+}
